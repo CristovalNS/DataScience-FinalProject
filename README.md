@@ -1,9 +1,9 @@
 # Fundamentals of Data Science Final Project
 
 ## Group Members: 
-- Cristoval Neo Sasono_2602158235
-- Adyatama Mahabarata_2602158626
-- Kenneth Jayadi Yu_2602158260
+- Cristoval Neo Sasono_2602158235 - L3BC
+- Adyatama Mahabarata_2602158626 - L3BC
+- Kenneth Jayadi Yu_2602158260 - L3BC
 
 ## Dataset Sources:
 Here are the relevant data sets that are used in this project. Sourced from Kaggle.
