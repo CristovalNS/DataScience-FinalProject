@@ -15,23 +15,29 @@ To find the most applicable machine learning techniques as well as understanding
 features needed for a company to reach Unicron status.
 
 ## File descriptions:
+- machine_learning_models: Contains all the machine learning models used in this project
+  - datasets: Contains all the data sets used for the machine learning models.
+  - DecisionTree.ipynb: Contains dataset analysis with Decision Tree.
+  - ElasticNetRegression.ipynb: Contains dataset analysis with Elastic Net Regression.
+  - LinearRegression.ipynb: Contains dataset analysis with Linear Regression.
+  - RandomForest.ipynb: Contains dataset analysis with Random Forest.
+  - SVM.ipynb: Contains dataset analysis with SVM.
+  - XGBoost.ipynb: Contains dataset analysis with XGBoost.
+
+- correlationMatrix.png: Displays the correlation matrix of all features to predict the time it takes for a company to reach Unicorn status.
+
+
 - DataPreprocessing.ipynb
-  - Contains 
-- DecisionTree-OLDUPDATED.ipynb
-  - Contains an old version of dataset analysis with Decision Tree.
-- DecisionTree.ipynb
-  - Contains dataset analysis with Decision Tree.
-- LinearRegression.ipynb
-  - Contains dataset analysis with Linear Regression.
-- SVM.ipynb
-  - Contains dataset analysis with SVM.
-- Testing.ipynb
-  - File used for testing different codes.
-- mar22_unicorn.csv
+  - Contains the process of cleaning the data set for use.
+
+- mar22_unicorn.csv (DATA SET)
   - Contains the information of company that has reached Unicorn as of March 2022
-- new_unicorn_data.csv
+ 
+- new_unicorn_data.csv (DATA SET)
   - Result of data cleaning.
-- new_unicorn_data_updated.csv
+
+- new_unicorn_data_updated.csv (DATA SET)
   - Added additional important columns to be used in research.
-- nov22_unicorn.csv
+
+- nov22_unicorn.csv (DATA SET)
   - Contains the information of company that has reached Unicorn as of November 2022
